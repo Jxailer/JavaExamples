@@ -26,6 +26,7 @@ public class Test {
 		System.out.println((a>>>5)&1); // 1
 		System.out.println((a>>>6)&1); // 0
 		System.out.println((a>>>7)&1); // 1
+		System.out.println( );
 		
 	}
 }
