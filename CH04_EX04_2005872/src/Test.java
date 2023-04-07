@@ -52,7 +52,7 @@ public class Test {
 		
 		// mission 2 into switch (use case 5 times)
 		int b = a / 10;
-		switch(b) {
+		switch(b) { // a/10
 		case 10:
 		case 9 :
 			System.out.println("A");
