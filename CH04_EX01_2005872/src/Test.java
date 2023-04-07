@@ -60,13 +60,13 @@ public class Test {
 		}
 		
 		// ex2
-		if(s>=70) {
+		if(score>=70) {
 			System.out.println("C학점");
 		}
-		else if(s>=80) {
+		else if(score>=80) {
 			System.out.println("B학점");
 		}
-		else if(s>=90) {
+		else if(score>=90) {
 			System.out.println("A학점");
 		}
 		else {
@@ -75,13 +75,13 @@ public class Test {
 
 		// ex3
 
-		if(70<=s && s<80) {
+		if(70<=score && score<80) {
 			System.out.println("C학점");
 		}
-		else if(80<=s && s<90) {
+		else if(80<=score && score<90) {
 			System.out.println("B학점");
 		}
-		else if(s>=90) {
+		else if(score>=90) {
 			System.out.println("A학점");
 		}
 		else {
