@@ -31,13 +31,13 @@ public class Test {
 		a=0;
 		while(a<0) {
 			System.out.println(a);
-			a++; // 1 time
+			a++; // 0 time
 		}		
 		a=0;
 		do {
 			System.out.println(a);
 			a++;
-		} while(a<0); // 0 time
+		} while(a<0); // 1 time
 		
 		
 		
