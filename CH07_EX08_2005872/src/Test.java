@@ -45,7 +45,7 @@ public class Test {
 		B b = new B();
 		//#멤버사용
 		b.work();
-		
+		dasd
 		//#객체생성
 //		C c = new C();//기본생성자가 없어서 오류
 		C c = new C(3);
